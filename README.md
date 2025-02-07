@@ -23,3 +23,25 @@ Currently, two official plugins are available:
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.1.1",
     "sass": "^1.83.1"
+
+
+
+REACT
+Redux
+Ant Design 
+
+
+
+"dependencies": {
+    "@ant-design/icons": "^5.5.2",
+    "@reduxjs/toolkit": "^2.5.0",
+    "antd": "^5.23.0",
+    "axios": "^1.7.9",
+    "framer-motion": "^11.17.0",
+    "moment": "^2.30.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.1.1",
+    "sass": "^1.83.1"

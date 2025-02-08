@@ -1,6 +1,6 @@
 # Ecommerce Project
 
-Welcome to the **Ecommerce Project**! 🎉 This project provides an intuitive, fully-featured eCommerce platform that integrates modern technologies for a seamless user experience. Features include user authentication, product management, responsive design, and more.
+Welcome to the **E-commerce Project**! 🎉 This project provides an intuitive, fully-featured eCommerce platform that integrates modern technologies for a seamless user experience. Features include user authentication, product management, responsive design, and more.
 
 This project is **fully responsive**, meaning it adjusts smoothly across various screen sizes and devices, ensuring a seamless experience on desktops, tablets, and mobile phones.
 
@@ -62,18 +62,8 @@ This project leverages several powerful libraries and frameworks to create a rob
 
 ---
 
-## Features 🌟
-
-- **Fully Responsive UI**: The app is designed to be **fully responsive**, ensuring a seamless user experience across desktops, tablets, and mobile devices. The layout and components adapt to various screen sizes using Ant Design and custom Sass styles.
-- **Product Management**: Admins can easily manage product data such as adding, editing, and deleting products.
-- **User Authentication**: Secure login and registration for users using JWT.
-- **Shopping Cart & Checkout**: Add items to a cart and process payments via integration with Stripe.
-- **404 Page Transition**: Smooth animations and transitions when navigating to a non-existent page, powered by Framer Motion.
-
----
-
 ## How to Run 🚀
 
-1. Clone the repository:
+JUST Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-project.git
+   git clone https://github.com/Khalid-Hani/TAPFinalProject2025.git
